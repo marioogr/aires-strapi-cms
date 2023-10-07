@@ -1,0 +1,52 @@
+{
+  "kind": "collectionType",
+  "collectionName": "propiedades",
+  "info": {
+    "singularName": "propiedad",
+    "pluralName": "propiedades",
+    "displayName": "Propiedad",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "modelo": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "pisos": {
+      "type": "string"
+    },
+    "m2": {
+      "type": "string"
+    },
+    "terraza": {
+      "type": "string"
+    },
+    "m2totales": {
+      "type": "string"
+    },
+    "logia": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string"
+    },
+    "categoria": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "string"
+    },
+    "imgubicacion": {
+      "type": "string"
+    },
+    "activo": {
+      "type": "boolean"
+    }
+  }
+}
